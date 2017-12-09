@@ -83,13 +83,10 @@ h1 {
 	float: left;
 	margin: 10px;
 	position: relative;
-<<<<<<< HEAD
 	border: 2px solid #cccccc;
 }
 #pic:hover {
 	border: 2px solid #4aaaa5;
-=======
->>>>>>> ddfa6f31c3379f0057bef4884b92491fa9c3bde1
 }
 #par {
 	text-indent: 30px;
@@ -113,15 +110,12 @@ h4 {
 .png {
 	width: 58px;
 	height: auto;
-<<<<<<< HEAD
 	border: 2px solid #cccccc;
 	border-radius: 15%;
 }
 .png:hover {
 	border: 2px solid #4aaaa5;
 	border-radius: 35%;
-=======
->>>>>>> ddfa6f31c3379f0057bef4884b92491fa9c3bde1
 }
 
 ul.icons {
@@ -188,6 +182,7 @@ input[type=submit] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    border: 2px solid #cccccc;
 }
 #msg {
 	height:200px;
@@ -212,11 +207,7 @@ input[type=submit]:hover {
 	margin-right: 50px;
 }
 .blocks:hover {
-<<<<<<< HEAD
-	border: 2px solid #4aaaa5;
-=======
 	border: 2px solid #191970;
->>>>>>> ddfa6f31c3379f0057bef4884b92491fa9c3bde1
 }
 .pictures {
 	width: 250px;
