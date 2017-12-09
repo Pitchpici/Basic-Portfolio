@@ -76,6 +76,7 @@ h1 {
 	color: #4aaaa5;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	padding: 20px;
+	font-size: 240%;
 }
 #pic {
 	width: 200px;
@@ -90,6 +91,11 @@ h1 {
 }
 #par {
 	text-indent: 30px;
+	padding: 10px 5px;
+}
+p {
+	font-size: 120%;
+	padding: 3px;
 }
 #aside {
 	float: right;
@@ -98,12 +104,13 @@ h1 {
 	background-color: #ffffff;
 	padding: 10px;
 	border: 2px solid #dddddd;
+	font-size: 130%;
 }
 h4 {
 	color: #4aaaa5;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	padding: 10px;
-	border-bottom: 2px solid #cccccc;
+	border-bottom: 3px solid #cccccc;
 	text-align: center;
 	font-size: 130%;
 }
@@ -148,9 +155,10 @@ footer {
 	text-align: center;
 	color: #ffffff;
 	width: 100%;
+	padding: 15px 0px;
 }
 
-/*Second page CSS*/
+/*Third page CSS*/
 
 #contactme {
 	border-bottom: 5px solid #cccccc;
@@ -193,7 +201,7 @@ input[type=submit]:hover {
     border: 2px solid #191970;
 }
 
-/*Third page CSS*/
+/*Second page CSS*/
 
 #portfolio {
 	border-bottom: 5px solid #cccccc;
@@ -207,7 +215,8 @@ input[type=submit]:hover {
 	margin-right: 50px;
 }
 .blocks:hover {
-	border: 2px solid #191970;
+	border: 2px solid #4aaaa5;
+	cursor: pointer;
 }
 .pictures {
 	width: 250px;
